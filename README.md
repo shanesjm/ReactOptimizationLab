@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# React Optimization Lab
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A showcase of advanced ReactJS techniques focusing on efficient API calls, user data handling, and image loading. Explore best practices in app architecture, coding style, and performance optimization.
+
+| Libraries Used                            | Description                              |
+| ----------------------------------------- | ---------------------------------------- |
+| Redux                                     | Content Cell                             |
+| Infinite Scroll with Front end pagination | Content Cell                             |
+| Lazyload and Suspense                     | Dynamic and efficient component loading  |
+| react-lazy-load-image-component           | For efficient loading of user images     |
+| Unit and Integration test                 | RTL, JEST, MSW                           |
+| Material UI                               | For inbuilt / Ready to use UI components |
 
 ## Available Scripts
 
